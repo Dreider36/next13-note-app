@@ -11,7 +11,7 @@ import {
     useBlockNote
 } from '@blocknote/react';
 
-import '@blocknote/react/style.css'
+import '@blocknote/core/style.css'
 import { useTheme } from 'next-themes';
 
 interface EditorProps {
